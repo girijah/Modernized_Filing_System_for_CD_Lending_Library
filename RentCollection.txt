@@ -1,0 +1,8 @@
+I,Weekly,John Grey,Returned,21-03-2015 19:42:01,25-03-2015 22:30:00
+Batman,Overnight,Peter,Issued,21-03-2015 20:05:51,22-03-2015 12:00:00
+Angel,Overnight,R Perera,Issued,17-03-2015 10:00:00,18-03-2015 10:00:00
+I,Weekly,Thilon,Returned,10-03-2015 09:00:00,17-03-2015 09:00:00
+I,Overnight,Peter,Issued,20-03-2015 10:00:00,21-03-2015 10:00:00
+Titanic,Overnight,Richard,Issued,20-03-2015 10:00:00,21-03-2015 10:00:00
+Enchanted,weekly,Shakoora,Issued,27-05-2015 10:00:00,04-06-2015 10:00:00
+Enchanted,weekly,Jaduja,Issued,12-04-2015 18:00:00,19-04-2015 18:00:00
